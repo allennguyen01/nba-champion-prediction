@@ -1,1 +1,1 @@
-# nba-mvp-prediction
+# nba-team-wins-prediction
